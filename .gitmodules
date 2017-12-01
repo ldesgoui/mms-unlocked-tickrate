@@ -1,0 +1,8 @@
+[submodule "hl2sdk-ob-valve"]
+	path = hl2sdk-ob-valve
+	url = https://github.com/alliedmodders/hl2sdk
+	branch = tf2
+[submodule "metamod-source"]
+	path = metamod-source
+	url = https://github.com/alliedmodders/metamod-source
+	branch = 1.10-dev
