@@ -1,5 +1,7 @@
 # Unlocked Tickrate
 
+# TESTS CONCLUDED IT DOESN'T WORK
+
 Quite self-explanatory, bypass forced tickrate in TF2 by hooking in Server methods.
 
 ## Usage
