@@ -11,8 +11,8 @@ Check if it loaded properly with `rcon meta list`
 ## Suggested config
 
 ```
-sv_maxrate <20000 * tickrate * 0.015>
-sv_minrate <80000 * tickrate * 0.015>
+sv_minrate <20000 * tickrate * 0.015>
+sv_maxrate <80000 * tickrate * 0.015>
 sv_minupdaterate <tickrate>
 sv_mincmdrate <tickrate>
 sv_maxupdaterate <tickrate>
